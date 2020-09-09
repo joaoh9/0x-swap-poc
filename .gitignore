@@ -3,3 +3,4 @@ generated-wrappers/*.ts
 ganache.log
 node_modules
 .env
+package-lock.json
